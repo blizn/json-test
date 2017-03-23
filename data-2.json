@@ -1,0 +1,20 @@
+{
+  "artists": [{
+    "name": "Anna Steinbauer",
+    "title": "Anointer of Champions",
+    "medium": "Digital, 2015",
+    "work": "images/anointer_of_champions.jpg"
+  }, 
+  {
+    "name": "Clint Cearley",
+    "title": "Mistfire Adept",
+    "medium": "Digital, 2015",
+    "work": "images/mistfire_adept.jpg"
+  }, 
+  {
+    "name": "Sam Burley",
+    "title": "Heliod's Emissary",
+    "medium": "Digital, 2013",
+    "work": "images/heliods_emissary.jpg"
+  }]
+}

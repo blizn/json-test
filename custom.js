@@ -13,7 +13,6 @@ xhr.onload = function () {
 			newContent += 'alt="' + responseObject.artists[i].title + '">'
 			newContent += '<p><strong>' + responseObject.artists[i].title + '</strong><br>'
 			newContent += responseObject.artists[i].name + '<br><em>'
-			// newContent += responseObject.artists[i].block + '</em><br><span>'
 			newContent += responseObject.artists[i].medium + '</span></p>'
 			newContent += '</div>'
 		}
@@ -22,9 +21,13 @@ xhr.onload = function () {
 	}
 }
 
+
+xhr.open('GET', 'data-2.json')
+	xhr.send()
+
 button = document.querySelector('.show')
 
 button.addEventListener('click', function () {
-	xhr.open('GET', 'data.json') // prep request
-	xhr.send() // send request
+	xhr.open('GET', 'data.json')
+	xhr.send()
 })

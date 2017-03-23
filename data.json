@@ -1,21 +1,20 @@
 {
-	"artists": [{
-		"name": "Anna Steinbauer",
-		"title": "Anointer of Champions",
-		// "block": "Magic: Origins",
-		"medium": "Digital, 2015",
-		"work": "images/anointer_of_champions.jpg"
-	}, {
-		"name": "Clint Cearley",
-		"title": "Mistfire Adept",
-		// "block": "Kahns of Tarkir",
-		"medium": "Digital, 2015",
-		"work": "images/mistfire_adept.jpg"
-	}, {
-		"name": "Sam Burley",
-		"title": "Heliod's Emissary",
-		// "block": "Theros",
-		"medium": "Digital, 2013",
-		"work": "images/heliods_emissary.jpg"
-	}]
+  "artists": [{
+    "name": "Fleck",
+    "title": "Lucky Shot",
+    "medium": "Canvas print",
+    "work": "images/lucky-shot.jpg"
+  },
+  {
+    "name": "Nicebleed",
+    "title": "Bleed",
+    "medium": "Canvas print",
+    "work": "images/bleed.jpg"
+  }, 
+  {
+    "name": "Balazs Solti",
+    "title": "The Clown",
+    "medium": "Canvas print",
+    "work": "images/the-clown.jpg"
+  }]
 }
